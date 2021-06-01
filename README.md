@@ -28,15 +28,35 @@
 [comment]: <> (![Java]&#40;icons/bitbucket.png&#41;)
 
 ---
-- 🔭 -- I’m currently working as a Backend / Full-stack Software Engineer
+```
+Currently working as a Full-stack Software Engineer
+```
 ---
-- 🌱 -- I’m currently learning:
-  
-  ![Haskell](icons/haskell.png) Haskell , Go, lisp & Clojure.
+```
+ _Currently learning:_
+Haskell, Go, lisp & Clojure.
+```
 ---
-- 👯 -- I’m looking to collaborate on Free & Open Source Software
+
+```
+_Work_/_Hobby_
+Functional Programming, Declerative Programming, GNU-Like Operating Systems, Lisps etc.
+
+_Other_Lifestyle_
+Travelling, Fermentation, Biking, Islands, Mountains.
+
+_Political_/_Philosophical_
+Philanthropical discourse, Environment, Free Software. 
+```
 ---
-- 💬 -- Ask me about `Functional Programming, Free Software, Fermentation`.
+```
+Looking to collaborate on Free & Open Source Software.
+```
+---
+```
+Ask me about `Functional Programming, Free Software and Fermentation.
+```
 ---  
-- 📫 -- How to reach me: email me.
+How to reach me? 
+`email me.`
 ---

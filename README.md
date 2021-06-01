@@ -20,9 +20,12 @@
 ![Java](icons/vue.png)
 ![Java](icons/aws.png)
 ![Java](icons/digitalocean.png)
-![Java](icons/console.png)
-![Java](icons/github.png)
-![Java](icons/bitbucket.png)
+
+[comment]: <> (![Java]&#40;icons/console.png&#41;)
+
+[comment]: <> (![Java]&#40;icons/github.png&#41;)
+
+[comment]: <> (![Java]&#40;icons/bitbucket.png&#41;)
 
 ---
 - 🔭 -- I’m currently working as a Backend / Full-stack Software Engineer

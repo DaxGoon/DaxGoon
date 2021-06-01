@@ -1,9 +1,9 @@
-###### Hi there 🦚
+### Hi there 🦚
 
-I am Ramesh.
+`I am Ramesh.`
 >ℹ _You may pronounce my name as Raw-Mesh, Raah-Mesh, or R-mes._
 
-My current tech stack: 
+###### My current tech stack: 
 
 ![Python](icons/python.png) 
 ![Java](icons/java.png) 
@@ -25,15 +25,15 @@ My current tech stack:
 ![Java](icons/bitbucket.png)
 
 ---
-- 🔭 I’m currently working as a Backend / Full-stack Software Engineer
+- 🔭 -- I’m currently working as a Backend / Full-stack Software Engineer
 ---
-- 🌱 I’m currently learning:
+- 🌱 -- I’m currently learning:
   
-  ![Haskell](icons/haskell.png)
+  ![Haskell](icons/haskell.png) Haskell , Go, lisp & Clojure.
 ---
-- 👯 I’m looking to collaborate on Free & Open Source Software
+- 👯 -- I’m looking to collaborate on Free & Open Source Software
 ---
-- 💬 Ask me about `Functional Programming, Free Software, Fermentation`.
+- 💬 -- Ask me about `Functional Programming, Free Software, Fermentation`.
 ---  
-- 📫 How to reach me: email me.
+- 📫 -- How to reach me: email me.
 ---

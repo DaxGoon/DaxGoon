@@ -53,9 +53,8 @@ Philanthropical discourse, Environment, Free Software.
 Looking to collaborate on Free & Open Source Software.
 ```
 ---
-```
-Ask me about `Functional Programming, Free Software and Fermentation.
-```
+Ask me about? 
+`Functional Programming, Free Software and Fermentation.`
 ---  
 How to reach me? 
 `email me.`
